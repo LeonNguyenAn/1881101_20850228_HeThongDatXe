@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602159083558",
+    "project_id": "flutter-bla-clone-with-admin",
+    "storage_bucket": "flutter-bla-clone-with-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602159083558:android:80163bc937921d2b5df6e7",
+        "android_client_info": {
+          "package_name": "com.bla.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzifxpge9ajp-C9yDy-Kn5S75JfigAW6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

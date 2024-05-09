@@ -1,0 +1,22 @@
+Cài đặt Firebase : https://console.firebase.google.com/
+com.bachlacan.usersapp
+
+buildscript {
+    ext.kotlin_version = '1.9.20'
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath "com.google.gms:google-services:4.4.1"
+        classpath 'com.android.tools.build:gradle:8.3.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+apply plugin: "com.google.gms.google-services"
+
+Nhúng Geocoding API : https://console.developers.google.com/
+
+flutter run -d chrome --web-renderer html
